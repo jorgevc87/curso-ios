@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "88D0B44F-C5C9-406C-94AF-C1D5A44BCA3B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F23E830A-2841-40A5-A4D3-142A3C55C98B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Navegacion/ViewControllerNegro.swift"
+            startingColumnNumber = "24"
+            endingColumnNumber = "33"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "labelBody"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F23E830A-2841-40A5-A4D3-142A3C55C98B - da53dc61b9e651f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navegacion.ViewControllerNegro.labelBody.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Navegacion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Documents/iOS/Navegacion/Navegacion/ViewControllerNegro.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F23E830A-2841-40A5-A4D3-142A3C55C98B - 3df847b11c5f8de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navegacion.ViewControllerNegro.labelBody.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Navegacion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Documents/iOS/Navegacion/Navegacion/ViewControllerNegro.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F23E830A-2841-40A5-A4D3-142A3C55C98B - 1ce774311034a240"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navegacion.ViewControllerNegro.labelBody.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Navegacion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Documents/iOS/Navegacion/Navegacion/ViewControllerNegro.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F23E830A-2841-40A5-A4D3-142A3C55C98B - 5e2de1ccdd060094"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navegacion.ViewControllerNegro.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Navegacion.ViewControllerNegro"
+                  moduleName = "Navegacion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Documents/iOS/Navegacion/Navegacion/ViewControllerNegro.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F23E830A-2841-40A5-A4D3-142A3C55C98B - 1c236fd074d51e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Navegacion.ViewControllerNegro.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Navegacion.ViewControllerNegro&gt;"
+                  moduleName = "Navegacion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorge/Documents/iOS/Navegacion/Navegacion/ViewControllerNegro.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
